@@ -1,5 +1,6 @@
+# dataset type = {"whatsapp number with country code":"amount to be pay"}
 
-pending_dues = {"+917749984274":"10", "+917008308150":"10"}
+pending_dues = {"+918888888888":"10", "+918888888888":"10"} # place ',' after each dataset
 
 def get_current_time():
 	import datetime
